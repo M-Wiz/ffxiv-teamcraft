@@ -15,7 +15,7 @@
     "@google-cloud/storage": "^5.15.5",
     "copyfiles": "^2.4.1",
     "express": "^4.17.1",
-    "puppeteer": "^11.0.0",
+    "puppeteer": "^21.3.7",
     "request": "^2.88.2"
   }
 }
